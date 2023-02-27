@@ -1,4 +1,5 @@
 
 print("hello world")
-set non one
-pip install py nane
+x = input("Enter your age : ")
+if x > 10:
+    print("Pass")
