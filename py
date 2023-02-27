@@ -1,1 +1,2 @@
 set
+print("hello world")
